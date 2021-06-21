@@ -1,0 +1,7 @@
+# VIM YCM plugin cache
+
+**/.cache/**
+
+# Build directory
+
+**/cmake_build/**
